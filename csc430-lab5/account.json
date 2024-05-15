@@ -1,0 +1,21 @@
+[
+
+    {
+        "id": 1,
+        "accountHolderName": "Jayson",
+        "accountNumber": 124351,
+        "balance": 100.45
+    },
+    {
+        "id": 2,
+        "accountHolderName": "daniel",
+        "accountNumber": 11111,
+        "balance": 9999.99
+    },
+    {
+        "id": 3,
+        "accountHolderName": "zechary",
+        "accountNumber": 222222,
+        "balance": 777.77
+    }
+]
